@@ -1,0 +1,31 @@
+body{
+	font-size: 16px;
+}
+#num1{
+	font-size: 35pt;
+	height: 30px;
+}
+#num2{
+	font-size: 35pt;
+	height: 30px;
+}
+#op{
+	font-size: 35pt;
+	height: 30px;
+}
+#Submit{
+	font-size: 20px;
+	height: 40px;
+	color: green;
+	background: #ffffee;
+	padding: 5px;
+	margin-left: 85%;
+}
+#form{
+	border: solid green 5px;
+	width: 40%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: #ccc;
+	padding: 10px;
+}
